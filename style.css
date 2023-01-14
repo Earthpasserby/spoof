@@ -238,11 +238,11 @@ footer{
     .carousel-caption{
         text-align: center;
         position: absolute;
-        top: 30%;
+        top: 45%;
         transform: translateY(-60%);
     }
     .carousel-caption h1{
-        font-size: 125%;
+        font-size: 130%;
         font-weight: bold;
         text-transform: uppercase;
         color: #fff;
