@@ -81,7 +81,7 @@ html, body{
     text-shadow: 1px 1px 10px #000;
 }
 .jumbotron{
-    background-image: url("../img/bg6.jpg");
+    background-image: url("bg6.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     padding: 1px;
@@ -100,7 +100,7 @@ html, body{
     color: #fff;
 }
 /* .ct{
-    background: url(../img/bg5.jpg);
+    background: url(bg5.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 } */
@@ -114,19 +114,19 @@ html, body{
     background: #000;
 }
 .cd1{
-    background: url(../img/bg8.jpg);
+    background: url(bg8.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
 }
 .cd2{
-    background: url(../img/skull.jpg);
+    background: url(skull.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
 }
 .cd3{
-    background: url(../img/bg7.jpg);
+    background: url(bg7.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
@@ -221,7 +221,7 @@ hr.firstline{
 }
 
 footer{
-    background: url(../img/bg2.jpg);
+    background: url(bg2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
